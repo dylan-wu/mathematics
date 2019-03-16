@@ -29,10 +29,19 @@ By Tom M Apostol
   - [First Edtion](https://openlibrary.org/works/OL18172721W/Mathematical_analysis_a_modern_approach_to_advanced_calculus)
   - [Second Edition](https://openlibrary.org/works/OL2180423W/Mathematical_analysis)
   
+A Computational Introduction to Number Theory and Algebra
+By Victor Shoup
+- [Open Book](https://open.umn.edu/opentextbooks/textbooks/a-computational-introduction-to-number-theory-and-algebra)
+  
 Abstract AlgebraTheory and Applications
 Thomas W. Judson
 - [Open Book](http://abstract.ups.edu/aata/)
- 
+
+A Gentle Introduction to the Art of Mathematics
+By Joseph Fields
+- [Open Book](https://open.umn.edu/opentextbooks/textbooks/a-gentle-introduction-to-the-art-of-mathematics-177)
+
+
 Book of Proof
 By Richard Hammack
   [Open Book](https://www.people.vcu.edu/~rhammack/BookOfProof2/index.html)
