@@ -45,7 +45,13 @@ By Joseph Fields
 Book of Proof
 By Richard Hammack
   [Open Book](https://www.people.vcu.edu/~rhammack/BookOfProof2/index.html)
-  
-References: 
+
+## Problem Sets
+- [UPenn Graduate Preliminary Exam](https://www.math.upenn.edu/graduate/program-description/prelim-exam)
+
+## References: 
 - [Rudin or Apostol](https://math.stackexchange.com/questions/141269/rudin-or-apostol)
 - [Companions to Rudin?](https://math.stackexchange.com/questions/2786/companions-to-rudin)
+
+## Unsorted:
+- [Crux Mathematicorum](https://cms.math.ca/crux/)
