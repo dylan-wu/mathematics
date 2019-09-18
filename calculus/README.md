@@ -12,11 +12,13 @@
 |----------|--------|
 | [Paul's Math Notes Calculus 2](https://github.com/dylan-wu/pauls-math-notes/tree/master/calculus-II) |  |
 
+## TODO
+
+- Test paul's math notes calculus 1 and calculus 2 similar to AoPS volume 1 reviews
+
 ## Resources
 
 [Mooculus](https://mooculus.osu.edu/)
-
-[Paul's Online Math Notes Calculus 1](http://tutorial.math.lamar.edu/Classes/CalcI/CalcI.aspx)
 
 [Art of Problem Solving Calculus Book](https://artofproblemsolving.com/store/item/calculus)
 
